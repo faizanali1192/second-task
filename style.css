@@ -1,0 +1,60 @@
+.small-sidebar {
+    height: 100vh;
+    background-color: lightgray;
+}
+
+.large-sidebar {
+    height: 100vh;
+    background-color: white;
+    border-right: 1px solid lightgray;
+}
+
+.color-boxes {
+    height: 40px;
+    width: 40px;
+    margin: 5px;
+    border-radius: 5px;
+
+}
+
+#box1 {
+    background-color: pink;
+    color: pink;
+}
+
+#box2 {
+    background-color: orange;
+}
+
+#box3 {
+    background-color: purple;
+}
+
+#box4 {
+    background-color: cyan;
+}
+
+#box5 {
+    background-color: yellow;
+}
+
+#box6 {
+    background-color: green;
+}
+
+#box7 {
+    background-color: blue;
+    color: blue;
+}
+
+#box8 {
+    background-color: brown;
+}
+
+#box9 {
+    background-color: black;
+}
+
+#box10 {
+    background-color: grey;
+}
